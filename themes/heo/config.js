@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // Hero area (large card at the top of the homepage)
-  HEO_HERO_TITLE_1: 'Share Programming',
-  HEO_HERO_TITLE_2: 'and share thoughts',
-  HEO_HERO_TITLE_3: 'Love The Person You Like',
+  HEO_HERO_TITLE_1: 'Just one',
+  HEO_HERO_TITLE_2: 'last time',
+  HEO_HERO_TITLE_3: 'I promise to you',
   HEO_HERO_TITLE_4: 'Never give up like naruto',
   HEO_HERO_TITLE_5: 'Always hold her hand like hinata',
   HEO_HERO_TITLE_LINK: 'https://youtube.com/@himandrihima',
@@ -28,12 +28,12 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: 'Just stroll around',
 
  // The hero area displays three top categories
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: 'Facebook', url: 'https://facebook.com/hemalmondal2022' },
+  HEO_HERO_CATEGORY_2: { title: 'Instagram', url: 'https://instagram.com/hemal_mondal' },
+  HEO_HERO_CATEGORY_3: { title: 'Twitter', url: 'https://x.com/hemal_mondal0' },
 
   // Recommended article label on the right side of the hero area, for example [Recommended], up to six articles; if left blank'', the most recently updated articles will be recommended
-  HEO_HERO_RECOMMEND_POST_TAG: '推荐',
+  HEO_HERO_RECOMMEND_POST_TAG: 'Recommend',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
