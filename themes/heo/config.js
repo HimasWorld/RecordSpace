@@ -118,13 +118,13 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // Is it displayed on the right? Click the Join Community button
   HEO_SOCIAL_CARD_TITLE_1: 'Communication Channel',
-  HEO_SOCIAL_CARD_TITLE_2: 'Join our community to discuss and share',
+  HEO_SOCIAL_CARD_TITLE_2: '',
   HEO_SOCIAL_CARD_TITLE_3: 'Click to join the community',
   HEO_SOCIAL_CARD_URL: 'https://discord.gg/aJRYdN9c2F',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: 'Word count:',
-  HEO_SITE_TIME_TITLE: 'Days to build site:',
+  //HEO_SITE_TIME_TITLE: 'Days to build site:',
   HEO_SITE_VISIT_TITLE: 'Views:',
   HEO_SITE_VISITOR_TITLE: 'Number of visitors:',
 
