@@ -8,9 +8,9 @@
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "Hemal",
+    "email": "info@recordspace.icu",
+    "url": "https://www.recordspace.icu"
   },
   "scripts": {
     "dev": "next dev",
@@ -73,6 +73,6 @@
   },
   "bugs": {
     "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "email": "info@recordspace.icu"
   }
 }
