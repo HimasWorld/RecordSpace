@@ -51,7 +51,7 @@ export default function Footer() {
 
                     {/* 2nd block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">产品</h6>
+                        <h6 className="text-gray-800 font-medium mb-2">Product</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
                                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">NotionNext</a>
@@ -76,41 +76,41 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">资源</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
+                                <a href="https://www.recodrspace.icu" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">教程指南</a>
+                                <a href="https://www.recodrspace.icu" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">教程指南</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">博客</a>
+                                <a href="https://www.recodrspace.icu" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">博客</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
+                                <a href="https://www.recodrspace.icu" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">合作方</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Partners</a>
                             </li>
                         </ul>
                     </div>
 
                     {/* 4th block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">企业</h6>
+                        <h6 className="text-gray-800 font-medium mb-2">Enterprise</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">主页</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">关于我们</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About Us</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">公司价值观</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Company Values</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">价格</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Price</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">隐私政策</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Privacy Policy</a>
                             </li>
                         </ul>
                     </div>
@@ -151,7 +151,7 @@ export default function Footer() {
                     <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
                         <li>
                           <div className='h-full flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100'>
-                             Powered by<a href='https://github.com/tangly1024/NotionNext' className='mx-1 hover:underline font-semibold'>NotionNext {siteConfig('VERSION')}</a>
+                             Powered by<a href='https://instagram.com/hemal_mondal' className='mx-1 hover:underline font-semibold'>Hemal Mondal {siteConfig('VERSION')}</a>
                           </div>
                         </li>
                         {/* <li>
@@ -178,7 +178,7 @@ export default function Footer() {
                     </ul>
 
                     {/* Copyrights note */}
-                    <div className="text-sm text-gray-600 mr-4">&copy; NotionNext. All rights reserved.</div>
+                    <div className="text-sm text-gray-600 mr-4">&copy; Record Space. All rights reserved.</div>
 
                 </div>
 
